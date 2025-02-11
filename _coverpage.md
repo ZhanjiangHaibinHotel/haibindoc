@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/logo.png)
+![logo](media/logo.png)
 
 # 湛江海滨宾馆 <small>VI</small>
 
@@ -10,8 +10,8 @@
 - 请各部门严格按照设计标准执包括标识相关尺寸、文稿排版等
 - All departments are requested to strictly follow the design standards.
 
-[官网](https:///haibin.doc.footyun.top/)
+[官网](https://zhanjianghaibinhotel.github.io/haibindoc/)
 [Get Started](#介绍)
 <!-- 背景图片 -->
 
-![](_media/bg.jpg)
+![](media/bg.jpg)
