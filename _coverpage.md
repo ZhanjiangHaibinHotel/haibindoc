@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](media/logo.png)
+![logo]([media](https://ghfast.top/https://raw.githubusercontent.com/ZhanjiangHaibinHotel/haibindoc/main/media/logo.png)
 
 # 湛江海滨宾馆 <small>VI</small>
 
@@ -14,4 +14,4 @@
 [Get Started](#介绍)
 <!-- 背景图片 -->
 
-![](media/bg.jpg)
+![]([media/](https://ghfast.top/https://raw.githubusercontent.com/ZhanjiangHaibinHotel/haibindoc/main/media/bg.jpg)
