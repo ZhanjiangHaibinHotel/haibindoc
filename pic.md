@@ -106,4 +106,4 @@
 针对不同的季节和天气条件，采取相应的维护措施，延长宣传材料的使用寿命和宣传效果。
 以上是一个基本的宣传宣传材料施工方案，具体操作时可根据实际情况进行调整和补充。
 ##### 图解
-<img src="../pic/挂画施工标准.png" width = 50%>
+<img src="https://ghfast.top/https://raw.githubusercontent.com/ZhanjiangHaibinHotel/haibindoc/main/pic/挂画施工标准.png" width = 50%>
