@@ -12,7 +12,7 @@
 ### 品牌色彩板（Color Palette）
 我们的品牌色彩是我们视觉识别系统的关键组成部分。在这里，您可以找到我们正式的品牌色彩代码，以及色彩应用的示例和建议。
 
-[正在建设...]()<!--<img src="../pic/色板.png" width = 50%>-->
+<img src="https://ghfast.top/https://raw.githubusercontent.com/ZhanjiangHaibinHotel/haibindoc/main/pic/色板.png" width = 50%>
 
 ### 字体库（Typography）
 字体选择对于传达品牌的声音和风格至关重要。我们提供了我们正式的字体族，以及在不同场景下的使用建议和注意事项。
